@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.0.4)
+  - Cosmos (21.0.0)
+  - ReachabilitySwift (5.0.0)
+  - RSSelectionMenu (6.1.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SwiftyJSON (5.0.0)
+  - youtube-ios-player-helper-swift (1.1)
+  - YoutubePlayer-in-WKWebView (0.3.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos
+  - ReachabilitySwift
+  - RSSelectionMenu
+  - SDWebImage
+  - SwiftyJSON
+  - youtube-ios-player-helper-swift
+  - YoutubePlayer-in-WKWebView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - ReachabilitySwift
+    - RSSelectionMenu
+    - SDWebImage
+    - SwiftyJSON
+    - youtube-ios-player-helper-swift
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  Alamofire: 0fe5fd24b4298dc377a6550da7d5f1b30e286fcb
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  RSSelectionMenu: dac4fa365e4bbd95c0eccd0b6ff51a623a22a1c6
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  youtube-ios-player-helper-swift: 51a3c5325317c8271d0c7985c1bbe5a252ffb2fd
+  YoutubePlayer-in-WKWebView: af2f5929fc78882d94bfdfeea999b661b78d9717
+
+PODFILE CHECKSUM: f24fca27ab6b87fe6335beb12edaa3664d2f7268
+
+COCOAPODS: 1.9.1
